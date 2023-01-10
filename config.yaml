@@ -122,7 +122,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "https://drive.google.com/file/d/1_e5wS-cszkh5Wlq9dRc3ZmTsmRptuL39/view?usp=sharing"
       download: true
       newPage: false
     socialLinks:
@@ -201,6 +201,7 @@ params:
         content: We developed a product that can help monitor and tackel the spread of TB/TBC.
       - title: Silver award at Indonesia Healthcare Innovation Awards IHIA V-2021
         content: We developed an app called jantungku which used for consulting heart disease problems.
+        url: "https://drive.google.com/file/d/1Oj0s9Ylp0MNfezUDcGU6CmCaBAXtUnH1/view?usp=sharing"
 
   # projects
   projects:
