@@ -142,7 +142,7 @@ params:
     content: |-
       I am a software developer with a passion for mobile app development. I have a background in computer science, and I have a strong knowledge about flutter framework. I've been developing apps using flutter for about 2 years. I am currently working as a flutter developer at [Pusat Teknologi Informasi (PuTI)](https://it.telkomuniversity.ac.id/profil-puti/) in Telkom University Bandung. 
 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      I am currently working on My Tel-U Mobile.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
@@ -160,7 +160,7 @@ params:
     items:
       - job: "Flutter Developer"
         company: "Pusat Tekologi Informasi Telkom Univeristy"
-        companyUrl: "https://example.com"
+        companyUrl: "https://it.telkomuniversity.ac.id/profil-puti/"
         date: "February 2021 - present"
         featuredLink:
           enable: true
@@ -176,13 +176,11 @@ params:
       - title: "Bachelor of Informatics Engineering"
         school:
           name: "Telkom University, Bandung, Indonesia"
-          url: "https://example.org"
         date: "2021 - now"
         GPA: "3.52 out of 4.0"
       - title: "Diploma of Informatics Engineering"
         school:
           name: "Telkom University, Bandung, Indonesia"
-          url: "https://example.org"
         date: "2018 - 2021"
         GPA: "3.56 out of 4.0"
         content: |-
@@ -192,7 +190,6 @@ params:
       - title: "High School"
         school:
           name: "SMA Negeri 1 jatiwangi."
-          url: "https://example.org"
         date: "2016-2018"
 
   # Achievements
