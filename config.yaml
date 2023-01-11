@@ -132,7 +132,7 @@ params:
         - icon: fab fa-facebook
           url: https://www.facebook.com/profile.php?id=100006769218057
         - icon: fa fa-phone
-          url: https://api.whatsapp.com/send/?phone=%2B62813244145108&text&type=phone_number&app_absent=0
+          url: https://api.whatsapp.com/send/?phone=%2B6281324145108&text&type=phone_number&app_absent=0
 
   # About
   about:
